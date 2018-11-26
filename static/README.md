@@ -1,3 +1,3 @@
-# FIRSTNAME FAMILYNAME's Web Site
+# Charlotte Terzo's Web Site
 
-This is served as https://USERNAME.github.io, and the sources are in https://github.com/USERNAME/blogdown.source-USERNAME.
+This is served as https://Charlotte-Terzo.github.io, and the sources are in https://github.com/Charlotte-Terzo/blogdown.source-Charlotte-Terzo.
