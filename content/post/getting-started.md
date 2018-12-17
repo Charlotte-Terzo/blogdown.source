@@ -2,7 +2,7 @@
 date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
-tags = ["academic", "hugo"]
+tags = ["academic"]
 title = "Mon premier blog"
 math = true
 summary = """
